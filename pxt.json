@@ -1,6 +1,6 @@
 {
     "name": "motor",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "This is dfrobot based Lego Motor code",
     "license": "GNU",
     "dependencies": {

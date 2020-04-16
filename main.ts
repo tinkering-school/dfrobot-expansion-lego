@@ -274,9 +274,9 @@ namespace motor {
         let pp = (4-index) * 2 + 1 
         if (speed >= 0) {
             setPwm(pp, 0, speed)
-            setPwm(pn, 0, 0)
+            //setPwm(pn, 0, 0)
         } else {
-            setPwm(pp, 0, 0)
+            //setPwm(pp, 0, 0)
             setPwm(pn, 0, -speed)
         }
     }
